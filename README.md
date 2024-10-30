@@ -4,7 +4,7 @@
 
 This is a responsive tribute page about neapolitan musician, composer and singer **Pino Daniele**.
 
-It was the first project I made in HTML and CSS ever, so there is no structural order for folders and files, everything is in the root folder.
+FUNFACT: It was the first project I made in HTML and CSS ever.
 
 Go visit the preview of the project here:
 
