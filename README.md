@@ -8,7 +8,7 @@ It was the first project I made in HTML and CSS ever, so there is no structural 
 
 Go visit the preview of the project here:
 
-**https://simonceeno.github.io/tribute-page-pino-daniele/index-tribute-page.html**
+**[Pino Daniele tribute page](https://simonceeno.github.io/tribute-page-pino-daniele/index-tribute-page.html)**
 
 **ENJOY!**
 
