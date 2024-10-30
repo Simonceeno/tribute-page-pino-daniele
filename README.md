@@ -4,7 +4,7 @@
 
 This is a responsive tribute page about neapolitan musician, composer and singer **Pino Daniele**.
 
-FUNFACT: It was the first project I made in HTML and CSS ever.
+*FUNFACT*: It was the first project I made in HTML and CSS ever.
 
 Go visit the preview of the project here:
 
